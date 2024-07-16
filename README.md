@@ -24,6 +24,8 @@ The Fire Fighter Robot is an autonomous system designed to detect and extinguish
 - **Motion Control:** Driver module controlling 2 DC motors
   - <img src="https://github.com/user-attachments/assets/580223b8-6652-4848-9d62-c51f7e91fe7d" alt="DC Motor" width="300">
 - **Fire Extinguishing System:** Relay module and water pump
+  - <img src="https://github.com/user-attachments/assets/e5455c1c-298e-48a6-8701-dbc5c8460dae" alt="Relay Module" width="300">
+  - <img src="https://github.com/user-attachments/assets/9b6cc19c-fda4-4635-9aee-1cd9801cf77f" alt="Water Pump" width="300">
 - **Power Supply:** 9V battery
 
 ## Implementation
