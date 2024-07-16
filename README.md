@@ -18,7 +18,8 @@ The Fire Fighter Robot is an autonomous system designed to detect and extinguish
 - **Microcontroller:** Arduino UNO
   - <img src="https://github.com/user-attachments/assets/0f978b45-c56f-42ee-8d84-8fc0377f4104" alt="Uno board" width="500">
 - **Sensors:** 3 UV/IR Flame Sensors
-  - 
+  - <img src="https://github.com/user-attachments/assets/6f42e4c7-3944-4311-8976-d311eccb3cfd" alt="Flame Sensor" width="500">
+
 - **Alert System:** Buzzer (emits loud sounds for 2 seconds upon flame detection)
 - **Motion Control:** Driver module controlling 2 DC motors
 - **Fire Extinguishing System:** Relay module and water pump
