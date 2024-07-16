@@ -28,7 +28,7 @@ The Fire Fighter Robot is an autonomous system designed to detect and extinguish
   - <img src="https://github.com/user-attachments/assets/5e6bf115-eb30-43f5-aa33-abb03cbb36f5" alt="Relay Module" width="300">
   - <img src="https://github.com/user-attachments/assets/9b6cc19c-fda4-4635-9aee-1cd9801cf77f" alt="Water Pump" width="300">
 - **Power Supply:** 9V battery
-  - 
+  - <img src="https://github.com/user-attachments/assets/9f84680f-d7d8-4aef-b56b-4d5c1b0751a2" alt="9V Battery" width="300">
 
 ## Implementation
 The Fire Fighter Robot operates in two scenarios:
@@ -49,14 +49,9 @@ If no fire is detected, the robot remains silent and stationary.
 
 ## Getting Started
 1. Clone the repository.
-2. Follow the instructions in `Code.md` to upload the code to the Arduino UNO.
+2. Follow the code instructions in `Code.md` to upload the code to the Arduino UNO.
 3. Assemble the components as shown in `Circuit.jpg`.
 4. Power on the robot and observe its operation as it detects and extinguishes fires.
-
-## Future Enhancements
-- Integration of additional sensors for more robust fire detection.
-- Improvements in movement algorithms for faster response times.
-- Enhanced power management for longer operational periods.
 
 ---
 
