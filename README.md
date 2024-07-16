@@ -22,11 +22,13 @@ The Fire Fighter Robot is an autonomous system designed to detect and extinguish
 - **Alert System:** Buzzer (emits loud sounds for 2 seconds upon flame detection)
   - <img src="https://github.com/user-attachments/assets/076015ff-3ffa-4062-8ea2-c2fe5242776c" alt="Buzzer" width="300">
 - **Motion Control:** Driver module controlling 2 DC motors
+  - <img src="https://github.com/user-attachments/assets/e5455c1c-298e-48a6-8701-dbc5c8460dae" alt="Driver Module" width="300">
   - <img src="https://github.com/user-attachments/assets/580223b8-6652-4848-9d62-c51f7e91fe7d" alt="DC Motor" width="300">
 - **Fire Extinguishing System:** Relay module and water pump
-  - <img src="https://github.com/user-attachments/assets/e5455c1c-298e-48a6-8701-dbc5c8460dae" alt="Relay Module" width="300">
+  - <img src="https://github.com/user-attachments/assets/5e6bf115-eb30-43f5-aa33-abb03cbb36f5" alt="Relay Module" width="300">
   - <img src="https://github.com/user-attachments/assets/9b6cc19c-fda4-4635-9aee-1cd9801cf77f" alt="Water Pump" width="300">
 - **Power Supply:** 9V battery
+  - 
 
 ## Implementation
 The Fire Fighter Robot operates in two scenarios:
